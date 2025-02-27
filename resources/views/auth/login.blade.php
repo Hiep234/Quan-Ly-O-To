@@ -39,9 +39,33 @@
                 </a>
             @endif
 
+            @if(session('success'))
+            <div id="success-message" 
+                style="
+                    position: fixed;
+                    top: 20px;
+                    right: 20px;
+                    background-color: #28a745;
+                    color: white;
+                    padding: 10px 20px;
+                    border-radius: 5px;
+                    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+                    z-index: 1000;
+                        ">
+            {{ session('success') }}
+            </div>
+
+            <script>
+                setTimeout(function() {
+                    document.getElementById('success-message').style.display = 'none';
+                }, 3000); // 3 giây
+            </script>
+            @endif
+
             <x-primary-button class="ms-3">
                 {{ __('Log in') }}
             </x-primary-button>
         </div>
     </form>
 </x-guest-layout>
+
