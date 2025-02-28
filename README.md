@@ -4,7 +4,8 @@
 </ul>
 <p>We're all from PHENIKAA UNIVERSITY</p>
 <h1>About our project</h1>
-<p>This is a personal information management website that aims to provide users with a flexible and convenient platform to organize and manage daily personal activities. <br> The website allows users to register and create personal profiles, similar to a blog, where they can share and update information about themselves.</p>
+<p>This is a car management website that aims to provide users with a flexible and convenient platform to organize and manage their car-related activities.
+The website allows registration and creation of information about vehicles and owners, where they can manage and update information about their vehicles.</p>
 
 <h2>Main functions include:</h2>
 <ul>
