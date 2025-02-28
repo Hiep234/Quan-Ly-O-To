@@ -48,6 +48,12 @@ Visit the Application:
 Open your browser and navigate to http://localhost:8000
 
 <h3>Our product: <a href='https://animated-space-succotash-9vq6pwvq97pf77p-8000.app.github.dev/'>Link website</a></h3>
+
+<h2>Use case diagram</h2>
+<div align='center'>
+    <img src='https://github.com/user-attachments/assets/39d56f7e-3e00-4d8e-8358-32990ab759db'>
+</div>
+
 <h1 align='center'>Some picture about our website</h1>
 <h2>Login, register</h2>
 <div align='center'>
