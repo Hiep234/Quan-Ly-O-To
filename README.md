@@ -66,13 +66,10 @@ Open your browser and navigate to http://localhost:8000
     <img src='https://github.com/user-attachments/assets/50acd476-3b04-43f6-8aec-773d7b423f92'>
 </div>
 <hr>
-<h2>Task</h2>
+<h2>Car page</h2>
 <div align='center' >
-    
-</div>
-<hr>
-<h2>Group</h2>
-<div align='center' >
-    
+    <img src='https://github.com/user-attachments/assets/02f7f5e0-ee56-4bec-91a6-8f5fd42d4b92'>
+    <img src='https://github.com/user-attachments/assets/e4f6271e-2c92-45e0-beb4-8076cd21cf0f'>
+    <img src='https://github.com/user-attachments/assets/317f33af-a499-4b5b-82a9-7703d2b3d8ea'>
 </div>
 
