@@ -56,12 +56,14 @@ Open your browser and navigate to http://localhost:8000
 
 <h2>Home page</h2>
 <div align='center' >
-    
+    <img src='https://github.com/user-attachments/assets/c6f3e57e-26aa-420d-84b9-6280b37cd130'>
 </div>
 <hr>
-<h2>Search </h2>
+<h2>Owner page </h2>
 <div align='center' >
-    
+    <img src='https://github.com/user-attachments/assets/0e4952ff-c2aa-455b-9f7e-5df3bb58b8b5'>
+    <img src='https://github.com/user-attachments/assets/a9e8780f-2405-4d2e-86f5-2c7e60b47a94'>
+    <img src='https://github.com/user-attachments/assets/50acd476-3b04-43f6-8aec-773d7b423f92'>
 </div>
 <hr>
 <h2>Task</h2>
