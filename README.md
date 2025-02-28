@@ -51,7 +51,7 @@ Open your browser and navigate to http://localhost:8000
 <h2>Login, register</h2>
 <div align='center'>
     <img src='https://github.com/user-attachments/assets/2287d4fe-81c5-4bef-b36e-494ebeb3f1e9'>
-    
+    <img src='https://github.com/user-attachments/assets/5907d510-7f82-4268-af11-4e9ccebe5f01'>
 </div>
 
 <h2>Home page</h2>
