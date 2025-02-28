@@ -50,7 +50,7 @@ Open your browser and navigate to http://localhost:8000
 <h1 align='center'>Some picture about our website</h1>
 <h2>Login, register</h2>
 <div align='center'>
-    ![Image](https://github.com/user-attachments/assets/2287d4fe-81c5-4bef-b36e-494ebeb3f1e9)
+    <img src='https://github.com/user-attachments/assets/2287d4fe-81c5-4bef-b36e-494ebeb3f1e9'>
     
 </div>
 
